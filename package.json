@@ -1,6 +1,6 @@
 {
-  "name": "vue-grid-layout-v3",
-  "version": "3.0.3",
+  "name": "@filif123/vue-grid-layout-v3",
+  "version": "3.0.4",
   "description": "A draggable and resizable grid layout, as a Vue component.",
   "keywords": [
     "grid",
@@ -14,10 +14,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/merfais/vue-grid-layout-v3.git"
+    "url": "https://github.com/filif123/vue-grid-layout-v3.git"
   },
   "author": "coffeebi <merfais.bwq@163.com>",
-  "homepage": "https://github.com/merfais/vue-grid-layout-v3",
+  "homepage": "https://github.com/filif123/vue-grid-layout-v3",
   "main": "src/components/index.js",
   "unpkg": "dist/vue-grid-layout-v3.umd.min.js",
   "scripts": {
